@@ -1,0 +1,20 @@
+.footer-contents
+    border-top: 1px solid $color-border
+    .block-organizations
+        .organization
+            .organization-content
+                display: none
+            .media
+                background: none
+                padding: 0
+                picture
+                    aspect-ratio: auto
+                    width: auto
+                    height: 50px
+                    img
+                        object-position: left
+        @include media-breakpoint-up(desktop)
+            .organizations
+                display: inline-flex
+#document-footer
+    border-top: 1px solid $color-border
