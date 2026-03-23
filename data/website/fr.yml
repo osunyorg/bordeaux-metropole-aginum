@@ -12,7 +12,7 @@ contents:
       base: 2
       children: 2
     top:
-      active: false
+      active: true
 
     data:
       layout: grid
