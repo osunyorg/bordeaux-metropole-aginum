@@ -25,7 +25,27 @@ contents:
         filters: false
 
       organizations:
-      quantity: 0
+        - permalink: "/organisations/agence-nationale-de-la-cohesion-des-territoires/"
+          path: "/organizations/agence-nationale-de-la-cohesion-des-territoires"
+          slug: "agence-nationale-de-la-cohesion-des-territoires"
+          file: "content/fr/organizations/agence-nationale-de-la-cohesion-des-territoires.html"
+
+        - permalink: "/organisations/nec/"
+          path: "/organizations/nec"
+          slug: "nec"
+          file: "content/fr/organizations/nec.html"
+
+        - permalink: "/organisations/journee-internationale-des-droits-digitaux/"
+          path: "/organizations/journee-internationale-des-droits-digitaux"
+          slug: "journee-internationale-des-droits-digitaux"
+          file: "content/fr/organizations/journee-internationale-des-droits-digitaux.html"
+
+        - permalink: "/organisations/bordeaux-metropole/"
+          path: "/organizations/bordeaux-metropole"
+          slug: "bordeaux-metropole"
+          file: "content/fr/organizations/bordeaux-metropole.html"
+
+      quantity: 4
 
 
 
